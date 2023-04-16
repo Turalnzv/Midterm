@@ -36,21 +36,17 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 
 
 # Introduction
-This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @aydinonat:2007 for academic writing rules. You can find lots of online resources on this topic.
 
-The sections in your project assignment must necessarily include the sections in this text (except the first section, of course). Apart from the sections used here, you can use different subsections. When writing your project, use this file as a draft and adapt its content to your purposes.
-
-In this section, mention the purpose and importance of your work in a few paragraphs.
+The World Happiness Report is an annual publication produced by the United Nations Sustainable Development Solutions Network, which ranks countries based on the level of happiness of their citizens. The World Happiness Report uses a variety of factors, including economic, social, and health-related indicators, to calculate a score for each country, which is then used to rank them. The report is based on data collected from a range of sources, including surveys of people in each country, and it provides valuable insights into the factors that contribute to happiness and well-being across the world. The World Happiness Report has become an important resource for policymakers, researchers, and the general public, as it helps to inform policies and initiatives aimed at improving the lives of people around the world.
 
 ## Literature Review
 
-In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least four** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
-
-
-
-**References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
-
-**_You shouldn't delete the last 3 lines. Those lines are required for References section._**
+The paper "The Origins of Happiness: The Science of Well-Being over the Life Course" @jones2018clark by Andrew Clark and colleagues provides a comprehensive review of the research on the determinants of happiness over the life course. They suggest that factors such as social relationships, health, and meaningful work are key determinants of happiness, and that these factors may be particularly important during certain stages of the life course.
+The paper "Happiness and Environmental Sustainability: A Review of the Literature" @steinberger2022happiness by Julia Steinberger and colleagues examined the relationship between happiness and environmental sustainability. They found that sustainable practices such as reducing consumption, promoting renewable energy, and protecting biodiversity can lead to greater levels of happiness and well-being over the long-term. They suggest that policies aimed at promoting sustainability could have significant benefits for both the environment and human well-being.
+The study "Income and Well-Being: An Empirical Analysis of the Comparison Income Effect" @easterlin2013income by Richard Easterlin and Onnicha Sawangfa found that individuals' happiness is influenced not only by their own income, but also by the income of others in their reference group. They suggest that policies aimed at reducing income inequality could have significant benefits for overall levels of happiness.
+The study "Happiness, Culture, and Context" @oishi2019happiness by Shigehiro Oishi and Selin Kesebir examined the role of culture and context in shaping individuals' experiences of happiness. They found that cultural factors such as individualism and collectivism, as well as situational factors such as the presence of social support, were important predictors of happiness. They suggest that policies aimed at promoting cultural and situational factors that support happiness could have significant benefits for overall levels of well-being.
+The study "Happiness and Productivity" @de2020happiness by Jan-Emmanuel De Neve and colleagues found that happier workers are more productive, suggesting that policies aimed at promoting workplace happiness could have significant economic benefits. They suggest that employers can promote happiness among workers through measures such as flexible working arrangements, social activities, and opportunities for personal development.
+The paper "Sustainable Happiness: Lessons from the World's Happiest People and Places" @o2019sustainable by Catherine O'Brien and Robert J. Vallerand examines the relationship between sustainability and happiness. They suggest that promoting sustainable practices such as environmental conservation, social justice, and economic stability can lead to greater levels of happiness and well-being over the long-term.
 
 \newpage
 # References {#references}
